@@ -1,0 +1,1037 @@
+{
+  "tile_size": 40,
+  "width": 30,
+  "height": 20,
+  "tiles": [
+    {
+      "x": 3,
+      "y": 1,
+      "type": "residential"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 14,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 15,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 16,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 17,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 18,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 19,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 20,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 21,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 22,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 23,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 24,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 25,
+      "y": 1,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 1,
+      "type": "residential"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "type": "road"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "type": "road"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "type": "road"
+    },
+    {
+      "x": 17,
+      "y": 2,
+      "type": "road"
+    },
+    {
+      "x": 19,
+      "y": 2,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 2,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "type": "road"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "type": "road"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "type": "road"
+    },
+    {
+      "x": 17,
+      "y": 3,
+      "type": "road"
+    },
+    {
+      "x": 19,
+      "y": 3,
+      "type": "highway"
+    },
+    {
+      "x": 26,
+      "y": 3,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "type": "road"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "type": "road"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "type": "road"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "type": "road"
+    },
+    {
+      "x": 14,
+      "y": 4,
+      "type": "road"
+    },
+    {
+      "x": 15,
+      "y": 4,
+      "type": "workplace"
+    },
+    {
+      "x": 16,
+      "y": 4,
+      "type": "road"
+    },
+    {
+      "x": 17,
+      "y": 4,
+      "type": "road"
+    },
+    {
+      "x": 19,
+      "y": 4,
+      "type": "highway"
+    },
+    {
+      "x": 26,
+      "y": 4,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "type": "road"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "type": "road"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "type": "road"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "type": "road"
+    },
+    {
+      "x": 15,
+      "y": 5,
+      "type": "road"
+    },
+    {
+      "x": 19,
+      "y": 5,
+      "type": "highway"
+    },
+    {
+      "x": 23,
+      "y": 5,
+      "type": "road"
+    },
+    {
+      "x": 24,
+      "y": 5,
+      "type": "road"
+    },
+    {
+      "x": 25,
+      "y": 5,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 5,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "type": "road"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "type": "road"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "type": "road"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "type": "road"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "type": "road"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "type": "road"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "type": "road"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "type": "road"
+    },
+    {
+      "x": 15,
+      "y": 6,
+      "type": "road"
+    },
+    {
+      "x": 19,
+      "y": 6,
+      "type": "highway"
+    },
+    {
+      "x": 23,
+      "y": 6,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 6,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "type": "road"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "type": "road"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "type": "road"
+    },
+    {
+      "x": 14,
+      "y": 7,
+      "type": "road"
+    },
+    {
+      "x": 15,
+      "y": 7,
+      "type": "highway"
+    },
+    {
+      "x": 16,
+      "y": 7,
+      "type": "highway"
+    },
+    {
+      "x": 17,
+      "y": 7,
+      "type": "highway"
+    },
+    {
+      "x": 18,
+      "y": 7,
+      "type": "highway"
+    },
+    {
+      "x": 19,
+      "y": 7,
+      "type": "highway"
+    },
+    {
+      "x": 23,
+      "y": 7,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 7,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "type": "road"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "type": "road"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "type": "road"
+    },
+    {
+      "x": 11,
+      "y": 8,
+      "type": "road"
+    },
+    {
+      "x": 12,
+      "y": 8,
+      "type": "road"
+    },
+    {
+      "x": 13,
+      "y": 8,
+      "type": "road"
+    },
+    {
+      "x": 15,
+      "y": 8,
+      "type": "highway"
+    },
+    {
+      "x": 22,
+      "y": 8,
+      "type": "road"
+    },
+    {
+      "x": 23,
+      "y": 8,
+      "type": "workplace"
+    },
+    {
+      "x": 24,
+      "y": 8,
+      "type": "road"
+    },
+    {
+      "x": 25,
+      "y": 8,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 8,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "type": "road"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "type": "road"
+    },
+    {
+      "x": 11,
+      "y": 9,
+      "type": "road"
+    },
+    {
+      "x": 15,
+      "y": 9,
+      "type": "highway"
+    },
+    {
+      "x": 22,
+      "y": 9,
+      "type": "road"
+    },
+    {
+      "x": 24,
+      "y": 9,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 9,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "type": "road"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "type": "workplace"
+    },
+    {
+      "x": 6,
+      "y": 10,
+      "type": "road"
+    },
+    {
+      "x": 7,
+      "y": 10,
+      "type": "road"
+    },
+    {
+      "x": 8,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 10,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 11,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 12,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 13,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 14,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 15,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 16,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 17,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 18,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 19,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 20,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 21,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 22,
+      "y": 10,
+      "type": "highway"
+    },
+    {
+      "x": 24,
+      "y": 10,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 10,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "type": "road"
+    },
+    {
+      "x": 9,
+      "y": 11,
+      "type": "highway"
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "type": "road"
+    },
+    {
+      "x": 15,
+      "y": 11,
+      "type": "highway"
+    },
+    {
+      "x": 19,
+      "y": 11,
+      "type": "road"
+    },
+    {
+      "x": 24,
+      "y": 11,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 11,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "type": "road"
+    },
+    {
+      "x": 9,
+      "y": 12,
+      "type": "highway"
+    },
+    {
+      "x": 10,
+      "y": 12,
+      "type": "road"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "type": "road"
+    },
+    {
+      "x": 12,
+      "y": 12,
+      "type": "road"
+    },
+    {
+      "x": 15,
+      "y": 12,
+      "type": "highway"
+    },
+    {
+      "x": 19,
+      "y": 12,
+      "type": "road"
+    },
+    {
+      "x": 20,
+      "y": 12,
+      "type": "road"
+    },
+    {
+      "x": 21,
+      "y": 12,
+      "type": "road"
+    },
+    {
+      "x": 22,
+      "y": 12,
+      "type": "road"
+    },
+    {
+      "x": 23,
+      "y": 12,
+      "type": "road"
+    },
+    {
+      "x": 24,
+      "y": 12,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 12,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "type": "road"
+    },
+    {
+      "x": 9,
+      "y": 13,
+      "type": "highway"
+    },
+    {
+      "x": 15,
+      "y": 13,
+      "type": "highway"
+    },
+    {
+      "x": 19,
+      "y": 13,
+      "type": "road"
+    },
+    {
+      "x": 22,
+      "y": 13,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 13,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 14,
+      "type": "road"
+    },
+    {
+      "x": 9,
+      "y": 14,
+      "type": "highway"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "type": "road"
+    },
+    {
+      "x": 14,
+      "y": 14,
+      "type": "road"
+    },
+    {
+      "x": 15,
+      "y": 14,
+      "type": "highway"
+    },
+    {
+      "x": 16,
+      "y": 14,
+      "type": "road"
+    },
+    {
+      "x": 17,
+      "y": 14,
+      "type": "road"
+    },
+    {
+      "x": 18,
+      "y": 14,
+      "type": "road"
+    },
+    {
+      "x": 19,
+      "y": 14,
+      "type": "road"
+    },
+    {
+      "x": 22,
+      "y": 14,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 14,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 15,
+      "type": "road"
+    },
+    {
+      "x": 4,
+      "y": 15,
+      "type": "road"
+    },
+    {
+      "x": 5,
+      "y": 15,
+      "type": "road"
+    },
+    {
+      "x": 6,
+      "y": 15,
+      "type": "highway"
+    },
+    {
+      "x": 7,
+      "y": 15,
+      "type": "highway"
+    },
+    {
+      "x": 8,
+      "y": 15,
+      "type": "highway"
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "type": "highway"
+    },
+    {
+      "x": 10,
+      "y": 15,
+      "type": "road"
+    },
+    {
+      "x": 11,
+      "y": 15,
+      "type": "road"
+    },
+    {
+      "x": 12,
+      "y": 15,
+      "type": "road"
+    },
+    {
+      "x": 13,
+      "y": 15,
+      "type": "workplace"
+    },
+    {
+      "x": 18,
+      "y": 15,
+      "type": "road"
+    },
+    {
+      "x": 22,
+      "y": 15,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 15,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 16,
+      "type": "road"
+    },
+    {
+      "x": 8,
+      "y": 16,
+      "type": "road"
+    },
+    {
+      "x": 13,
+      "y": 16,
+      "type": "road"
+    },
+    {
+      "x": 18,
+      "y": 16,
+      "type": "road"
+    },
+    {
+      "x": 22,
+      "y": 16,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 16,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 17,
+      "type": "road"
+    },
+    {
+      "x": 8,
+      "y": 17,
+      "type": "road"
+    },
+    {
+      "x": 13,
+      "y": 17,
+      "type": "road"
+    },
+    {
+      "x": 18,
+      "y": 17,
+      "type": "road"
+    },
+    {
+      "x": 22,
+      "y": 17,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 17,
+      "type": "road"
+    },
+    {
+      "x": 3,
+      "y": 18,
+      "type": "residential"
+    },
+    {
+      "x": 4,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 5,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 6,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 7,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 8,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 9,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 10,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 11,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 12,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 13,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 14,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 15,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 16,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 17,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 18,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 19,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 20,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 21,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 22,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 23,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 24,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 25,
+      "y": 18,
+      "type": "road"
+    },
+    {
+      "x": 26,
+      "y": 18,
+      "type": "residential"
+    }
+  ]
+}
